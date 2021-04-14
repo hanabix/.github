@@ -4,5 +4,6 @@
     "iconName": "tag",
     "categories": [
         "Scala"
-    ]
+    ],
+    "filePatterns": []
 }
