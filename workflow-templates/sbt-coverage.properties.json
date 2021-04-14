@@ -1,0 +1,11 @@
+{
+    "name": "SBT Coverage Workflow",
+    "description": "sbt coverage test",
+    "iconName": "scala",
+    "categories": [
+        "Scala", 
+    ],
+    "filePatterns": [
+        "build.sbt"
+    ]
+}
