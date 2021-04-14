@@ -2,7 +2,8 @@ name: Release
 
 on: 
   milestone:
-    types: [closed]
+    types: 
+    - closed
 
 jobs:
   releasing:
