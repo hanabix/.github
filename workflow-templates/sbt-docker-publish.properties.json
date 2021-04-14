@@ -1,0 +1,12 @@
+{
+  "name": "SBT Docker Publish Workflow",
+  "description": "sbt docker:publish",
+  "iconName": "scala",
+  "categories": [
+      "Scala", 
+      "Deployment"
+  ],
+  "filePatterns": [
+      "build.sbt"
+  ]
+}
