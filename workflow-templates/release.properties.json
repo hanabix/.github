@@ -3,7 +3,7 @@
     "description": "Create a release with milestone.",
     "iconName": "tag",
     "categories": [
-        "Scala"
+        "Automation"
     ],
     "filePatterns": []
 }
