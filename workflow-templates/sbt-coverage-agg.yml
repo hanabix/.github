@@ -1,4 +1,4 @@
-name: Coverage Aggregate
+name: CI
 
 on:
   push:
