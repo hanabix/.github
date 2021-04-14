@@ -1,6 +1,6 @@
 {
     "name": "SBT Coverage Workflow",
-    "description": "sbt coverage test",
+    "description": "sbt coverage +test coverageReport coveralls",
     "iconName": "scala",
     "categories": [
         "Scala", 

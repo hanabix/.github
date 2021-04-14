@@ -1,10 +1,9 @@
 {
-    "name": "SBT Release Workflow",
-    "description": "sbt ci-release",
+    "name": "SBT Coverage Aggregate Workflow",
+    "description": "sbt coverage +test coverageReport coverageAggregate",
     "iconName": "scala",
     "categories": [
         "Scala", 
-        "Deployment"
     ],
     "filePatterns": [
         "build.sbt"
