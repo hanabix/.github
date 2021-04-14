@@ -1,5 +1,5 @@
 {
-    "name": "Release Workflow",
+    "name": "Github Release Workflow",
     "description": "Create a release with milestone.",
     "iconName": "tag",
     "categories": [
