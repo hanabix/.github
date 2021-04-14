@@ -1,0 +1,5 @@
+{
+    "name": "Release",
+    "description": "Create a release with milestone.",
+    "iconName": "tag"
+}
