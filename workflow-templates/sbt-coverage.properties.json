@@ -3,7 +3,7 @@
     "description": "sbt coverage +test coverageReport coveralls",
     "iconName": "scala",
     "categories": [
-        "Scala", 
+        "Scala"
     ],
     "filePatterns": [
         "build.sbt"

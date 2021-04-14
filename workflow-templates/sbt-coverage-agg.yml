@@ -1,13 +1,15 @@
-name: Coverage
+name: Coverage Aggregate
+
 on:
   push:
     branches:
       - master
       - main
   pull_request:
+
 jobs:
-  build:
-    runs-on: ubuntu-20.04
+  coverage-aggregate:
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
       - uses: olafurpg/setup-scala@v10
