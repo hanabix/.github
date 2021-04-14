@@ -1,0 +1,10 @@
+{
+    "name": "SBT Release Workflow",
+    "description": "sbt ci-release.",
+    "iconName": "scala",
+    "categories": [
+        "Scala", 
+        "Deployment"
+    ],
+    "filePatterns": []
+}
