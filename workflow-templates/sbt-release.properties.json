@@ -6,5 +6,7 @@
         "Scala", 
         "Deployment"
     ],
-    "filePatterns": []
+    "filePatterns": [
+        "build.sbt"
+    ]
 }
